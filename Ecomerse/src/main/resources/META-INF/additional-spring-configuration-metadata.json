@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "beanConfig.setResourcePackage(\"com.infosys.ecomerse\");",
+  "type": "java.lang.String",
+  "description": "A description for 'beanConfig.setResourcePackage(\"com.infosys.ecomerse\");'"
+}]}
